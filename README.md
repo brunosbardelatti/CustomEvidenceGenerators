@@ -10,7 +10,7 @@ To install the project, make sure you have Python installed on your machine, and
 ```bash
   $ pip install robotframework
   $ pip install robotframework-seleniumlibrary
-  $ pip install robotframework-screencaplibrary
+  $ pip install --upgrade robotframework-screencaplibrary
   $ pip install allure-robotframework
 
 ````
